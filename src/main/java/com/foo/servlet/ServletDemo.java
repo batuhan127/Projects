@@ -29,6 +29,7 @@ public class ServletDemo extends HttpServlet {
             i++;
         }
         out.println("</form></html>");
+        //jıkıjookı
 
     }
 
